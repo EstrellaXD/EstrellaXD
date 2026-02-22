@@ -43,23 +43,17 @@ Computational biologist building tools for mass spectrometry data analysis and s
 
 `Python` `Docker` `RSS` `qBittorrent`
 
+### [SCMeTA](https://github.com/EstrellaXD/SCMeTA)
+
+A Python library for single-cell metabolism data analysis | 单细胞代谢数据分析工具
+
+`Python` `Single-cell` `Metabolism`
+
 ### [rsmzml](https://github.com/EstrellaXD/rsmzml)
 
 High-performance mzML parser in Rust with Python bindings
 
 `Rust` `Python` `Mass Spectrometry`
-
-### [pyRawTools](https://github.com/EstrellaXD/pyRawTools)
-
-A Python library for Linux/macOS to read Thermo RAW files
-
-`Python` `Mass Spectrometry`
-
-### [mld-sdk](https://github.com/EstrellaXD/mld-sdk)
-
-MLD Plugin SDK - Build analysis plugins for the MLD platform | MLD 平台分析插件开发工具包
-
-`Python` `FastAPI` `Vue 3`
 
 ---
 
