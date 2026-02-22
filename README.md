@@ -1,18 +1,72 @@
-### Hi there 👋
+# Estrella Pan
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstrellaXD&hide=contribs,prs)
+**Postdoctoral Researcher in Cancer Metabolism** @ University of Children's Hospital Zurich / Tsinghua University
 
-<!--
-**EstrellaXD/EstrellaXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational biologist building tools for mass spectrometry data analysis and scientific workflows. Also the creator of [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (7.9k+ stars), an automated anime tracking tool.
 
-Here are some ideas to get you started:
+- **Research:** Cancer metabolism, single-cell metabolism, metabolomics, mass spectrometry data processing
+- **Engineering:** Scientific Python tooling, Rust-based parsers, full-stack web apps
+- **Languages:** Python | Rust | TypeScript/Vue | C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Scientific**
+
+![Cancer Metabolism](https://img.shields.io/badge/Cancer_Metabolism-4C566A?style=flat)
+![Single-cell Metabolism](https://img.shields.io/badge/Single--cell_Metabolism-4C566A?style=flat)
+![Mass Spectrometry](https://img.shields.io/badge/Mass_Spectrometry-4C566A?style=flat)
+![Metabolomics](https://img.shields.io/badge/Metabolomics-4C566A?style=flat)
+
+**Frameworks**
+
+![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## Featured Projects
+
+### [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) &nbsp; ![Stars](https://img.shields.io/github/stars/EstrellaXD/Auto_Bangumi?style=flat)
+
+全自动追番工具 | Fully automated anime tracking & downloading tool
+
+`Python` `Docker` `RSS` `qBittorrent`
+
+### [rsmzml](https://github.com/EstrellaXD/rsmzml)
+
+High-performance mzML parser in Rust with Python bindings
+
+`Rust` `Python` `Mass Spectrometry`
+
+### [pyRawTools](https://github.com/EstrellaXD/pyRawTools)
+
+A Python library for Linux/macOS to read Thermo RAW files
+
+`Python` `Mass Spectrometry`
+
+### [mld-sdk](https://github.com/EstrellaXD/mld-sdk)
+
+MLD Plugin SDK - Build analysis plugins for the MLD platform | MLD 平台分析插件开发工具包
+
+`Python` `FastAPI` `Vue 3`
+
+---
+
+## GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EstrellaXD&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstrellaXD&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
