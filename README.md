@@ -66,7 +66,7 @@ MLD Plugin SDK - Build analysis plugins for the MLD platform | MLD 平台分析�
 ## GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EstrellaXD&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-ten-tau-52.vercel.app/api?username=EstrellaXD&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstrellaXD&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-ten-tau-52.vercel.app/api/top-langs/?username=EstrellaXD&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
