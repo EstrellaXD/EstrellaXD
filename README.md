@@ -16,28 +16,12 @@ Computational biologist building tools for mass spectrometry data analysis and s
 
 ## Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-**Scientific**
+<img src="./assets/tech-stack-animated.svg" alt="Tech Stack" />
 
 ![Cancer Metabolism](https://img.shields.io/badge/Cancer_Metabolism-4C566A?style=flat)
 ![Single-cell Metabolism](https://img.shields.io/badge/Single--cell_Metabolism-4C566A?style=flat)
 ![Mass Spectrometry](https://img.shields.io/badge/Mass_Spectrometry-4C566A?style=flat)
 ![Metabolomics](https://img.shields.io/badge/Metabolomics-4C566A?style=flat)
-
-**Frameworks**
-
-![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
