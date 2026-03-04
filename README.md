@@ -6,7 +6,7 @@ Computational biologist building tools for mass spectrometry data analysis and s
 
 - **Research:** Cancer metabolism, single-cell metabolism, metabolomics, mass spectrometry data processing
 - **Engineering:** Scientific Python tooling, Rust-based parsers, full-stack web apps
-- **Languages:** Python | Rust | TypeScript/Vue | C#
+- **Languages:** Python | Rust | TypeScript/Vue
 
 ---
 
@@ -17,7 +17,6 @@ Computational biologist building tools for mass spectrometry data analysis and s
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 **Scientific**
@@ -54,6 +53,17 @@ A Python library for single-cell metabolism data analysis | 单细胞代谢数�
 High-performance mzML parser in Rust with Python bindings
 
 `Rust` `Python` `Mass Spectrometry`
+
+---
+
+## Selected Publications
+
+- **Pan X**, Pan S, Du M, Yang J, Yao H, Zhang X, Zhang S. SCMeTA: a pipeline for single-cell metabolic analysis data processing. *Bioinformatics*, 40(9), btae545, 2024.
+- Du M, **Pan X**, Peng Y, Yang J, Pan S, Cheng R, et al. A Tandem Cytometry Platform for Single-Cell Analysis of Protein and Metabolites. *Analytical Chemistry*, 97(13), 6962-6966, 2025.
+- Yao H, Zhao H, Zhao X, **Pan X**, Feng J, Xu F, Zhang S, Zhang X. Label-free mass cytometry for unveiling cellular metabolic heterogeneity. *Analytical Chemistry*, 91(15), 9777-9783, 2019.
+- Zhang XC, Zang Q, Zhao H, Ma X, **Pan X**, Feng J, Zhang S, Zhang R, Abliz Z, Zhang X. Combination of droplet extraction and Pico-ESI-MS allows the identification of metabolites from single cancer cells. *Analytical Chemistry*, 90(16), 9897-9903, 2018.
+
+[Full publication list on Google Scholar](https://scholar.google.com/citations?user=A4pL4bsAAAAJ)
 
 ---
 
