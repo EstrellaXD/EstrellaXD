@@ -1,6 +1,8 @@
 # Estrella Pan
 
-**Postdoctoral Researcher in Cancer Metabolism** @ University of Children's Hospital Zurich / Tsinghua University
+**Postdoctoral Researcher in Cancer Metabolism** @ University of Children's Hospital Zurich
+
+BSc & PhD in Chemistry, Tsinghua University
 
 Computational biologist building tools for mass spectrometry data analysis and scientific workflows. Also the creator of [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (7.9k+ stars), an automated anime tracking tool.
 
@@ -30,6 +32,9 @@ Computational biologist building tools for mass spectrometry data analysis and s
 
 ![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
