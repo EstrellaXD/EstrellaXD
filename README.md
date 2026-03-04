@@ -1,4 +1,6 @@
-# Estrella Pan
+<a href="https://github.com/EstrellaXD">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&width=600&lines=Cancer+Metabolism+Researcher;Scientific+Tool+Builder;Open+Source+Creator" alt="Typing SVG" />
+</a>
 
 **Postdoctoral Researcher in Cancer Metabolism** @ University of Children's Hospital Zurich, Switzerland
 
@@ -79,3 +81,23 @@ High-performance mzML parser in Rust with Python bindings
   &nbsp;&nbsp;
   <img height="170" src="https://github-readme-stats-ten-tau-52.vercel.app/api/top-langs/?username=EstrellaXD&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
+
+<p>
+  <img height="170" src="https://streak-stats.demolab.com?user=EstrellaXD&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EstrellaXD&theme=minimal&hide_border=true&area=true" alt="Activity Graph" />
+
+---
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EstrellaXD/EstrellaXD/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EstrellaXD/EstrellaXD/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/EstrellaXD/EstrellaXD/dist/github-snake.svg" />
+</picture>
