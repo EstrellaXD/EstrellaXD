@@ -63,11 +63,13 @@ def generate_svg() -> str:
     ]
     for i in range(len(ICONS)):
         lines.append(f"  .d{i} {{ animation-delay: {i * STAGGER:.1f}s; }}")
-    lines.extend([
-        '  .lb { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;'
-        " font-size: 11px; fill: #656d76; }",
-        "</style>",
-    ])
+    lines.extend(
+        [
+            '  .lb { font-family: "JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;'
+            " font-size: 11px; fill: #8B949E; }",
+            "</style>",
+        ]
+    )
 
     icon_offset = (ICON_BOX - ICON_SIZE) // 2
 
@@ -80,15 +82,17 @@ def generate_svg() -> str:
         b64 = download_icon_b64(path)
         data_uri = f"data:image/svg+xml;base64,{b64}"
 
-        lines.extend([
-            f'  <g transform="translate({x},{y})">',
-            f'    <g class="f d{i}">',
-            f'      <rect width="{ICON_BOX}" height="{ICON_BOX}" rx="12" fill="#f6f8fa"/>',
-            f'      <image href="{data_uri}" x="{icon_offset}" y="{icon_offset}" width="{ICON_SIZE}" height="{ICON_SIZE}"/>',
-            f'      <text x="{ICON_BOX // 2}" y="{ICON_BOX + LABEL_OFFSET}" text-anchor="middle" class="lb">{label}</text>',
-            "    </g>",
-            "  </g>",
-        ])
+        lines.extend(
+            [
+                f'  <g transform="translate({x},{y})">',
+                f'    <g class="f d{i}">',
+                f'      <rect width="{ICON_BOX}" height="{ICON_BOX}" rx="12" fill="#161B22"/>',
+                f'      <image href="{data_uri}" x="{icon_offset}" y="{icon_offset}" width="{ICON_SIZE}" height="{ICON_SIZE}"/>',
+                f'      <text x="{ICON_BOX // 2}" y="{ICON_BOX + LABEL_OFFSET}" text-anchor="middle" class="lb">{label}</text>',
+                "    </g>",
+                "  </g>",
+            ]
+        )
 
     lines.append("</svg>")
     return "\n".join(lines)
