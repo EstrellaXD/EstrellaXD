@@ -1,5 +1,5 @@
 <a href="https://github.com/EstrellaXD">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&width=600&lines=Cancer+Metabolism+Researcher;Scientific+Tool+Builder;Open+Source+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=39D353&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+Cancer+Metabolism+Researcher;%24+role+%E2%86%92+Scientific+Tool+Builder;%24+maintains+%E2%86%92+Open+Source" alt="Typing SVG" />
 </a>
 
 **Postdoctoral Researcher in Cancer Metabolism** @ University of Children's Hospital Zurich, Switzerland
