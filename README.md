@@ -2,15 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=39D353&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+Cancer+Metabolism+Researcher;%24+role+%E2%86%92+Scientific+Tool+Builder;%24+maintains+%E2%86%92+Open+Source" alt="Typing SVG" />
 </a>
 
-**Postdoctoral Researcher in Cancer Metabolism** @ University of Children's Hospital Zurich, Switzerland
-
-BSc & PhD in Chemistry, Tsinghua University, Beijing, China
-
-Computational biologist building tools for mass spectrometry data analysis and scientific workflows. Also the creator of [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (7.9k+ stars), an automated anime tracking tool.
-
-- **Research:** Cancer metabolism, single-cell metabolism, metabolomics, mass spectrometry data processing
-- **Engineering:** Scientific Python tooling, Rust-based parsers, full-stack web apps
-- **Languages:** Python | Rust | TypeScript/Vue
+```
+╭─ estrella@zurich ──────────────────────────────╮
+│  role      Postdoctoral Researcher             │
+│  focus     Cancer & Single-cell Metabolism     │
+│  lab       University Children's Hospital, CH  │
+│  alma      PhD & BSc Chemistry, Tsinghua       │
+│  stack     Python · Rust · TypeScript/Vue      │
+│  known for Auto_Bangumi (7.9k★), SCMeTA        │
+╰────────────────────────────────────────────────╯
+```
 
 ---
 
