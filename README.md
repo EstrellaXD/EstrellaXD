@@ -28,21 +28,21 @@
 
 ## Featured Projects
 
-### [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) &nbsp; ![Stars](https://img.shields.io/github/stars/EstrellaXD/Auto_Bangumi?style=flat)
+### [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) &nbsp; ![Stars](https://img.shields.io/github/stars/EstrellaXD/Auto_Bangumi?style=flat&color=39D353&labelColor=0D1117)
 
 全自动追番工具 | Fully automated anime tracking & downloading tool
 
 `Python` `Docker` `RSS` `qBittorrent`
 
-### [SCMeTA](https://github.com/EstrellaXD/SCMeTA)
+### [SCMeTA](https://github.com/EstrellaXD/SCMeTA) &nbsp; ![Stars](https://img.shields.io/github/stars/EstrellaXD/SCMeTA?style=flat&color=39D353&labelColor=0D1117)
 
 A Python library for single-cell metabolism data analysis | 单细胞代谢数据分析工具
 
 `Python` `Single-cell` `Metabolism`
 
-### [rsmzml](https://github.com/EstrellaXD/rsmzml)
+### [oxion](https://github.com/EstrellaXD/oxion) &nbsp; ![Stars](https://img.shields.io/github/stars/EstrellaXD/oxion?style=flat&color=39D353&labelColor=0D1117)
 
-High-performance mzML parser in Rust with Python bindings
+Universal mass spectrometry file reader — fast, cross-platform, no .NET required
 
 `Rust` `Python` `Mass Spectrometry`
 
