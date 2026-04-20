@@ -34,7 +34,7 @@
 
 `Python` `Docker` `RSS` `qBittorrent`
 
-### [SCMeTA](https://github.com/EstrellaXD/SCMeTA) &nbsp; ![Stars](https://img.shields.io/github/stars/EstrellaXD/SCMeTA?style=flat&color=39D353&labelColor=0D1117)
+### [SCMeTA](https://github.com/SCMeTA/SCMeTA) &nbsp; ![Stars](https://img.shields.io/github/stars/SCMeTA/SCMeTA?style=flat&color=39D353&labelColor=0D1117)
 
 A Python library for single-cell metabolism data analysis | 单细胞代谢数据分析工具
 
