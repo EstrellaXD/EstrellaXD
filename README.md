@@ -19,10 +19,10 @@
 
 <img src="./assets/tech-stack-animated.svg" alt="Tech Stack" />
 
-![Cancer Metabolism](https://img.shields.io/badge/Cancer_Metabolism-4C566A?style=flat)
-![Single-cell Metabolism](https://img.shields.io/badge/Single--cell_Metabolism-4C566A?style=flat)
-![Mass Spectrometry](https://img.shields.io/badge/Mass_Spectrometry-4C566A?style=flat)
-![Metabolomics](https://img.shields.io/badge/Metabolomics-4C566A?style=flat)
+![Cancer Metabolism](https://img.shields.io/badge/Cancer_Metabolism-0D1117?style=flat&labelColor=39D353)
+![Single-cell Metabolism](https://img.shields.io/badge/Single--cell_Metabolism-0D1117?style=flat&labelColor=39D353)
+![Mass Spectrometry](https://img.shields.io/badge/Mass_Spectrometry-0D1117?style=flat&labelColor=39D353)
+![Metabolomics](https://img.shields.io/badge/Metabolomics-0D1117?style=flat&labelColor=39D353)
 
 ---
 
