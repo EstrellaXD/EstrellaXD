@@ -62,20 +62,20 @@ Universal mass spectrometry file reader — fast, cross-platform, no .NET requir
 ## GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats-ten-tau-52.vercel.app/api?username=EstrellaXD&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-ten-tau-52.vercel.app/api?username=EstrellaXD&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats-ten-tau-52.vercel.app/api/top-langs/?username=EstrellaXD&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-ten-tau-52.vercel.app/api/top-langs/?username=EstrellaXD&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top Languages" />
 </p>
 
 <p>
-  <img height="170" src="https://streak-stats.demolab.com?user=EstrellaXD&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=EstrellaXD&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EstrellaXD&theme=minimal&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EstrellaXD&theme=github-dark-dimmed&hide_border=true&area=true" alt="Activity Graph" />
 
 ---
 
