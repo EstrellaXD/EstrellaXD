@@ -40,7 +40,7 @@ A Python library for single-cell metabolism data analysis | 单细胞代谢数�
 
 `Python` `Single-cell` `Metabolism`
 
-### [oxion](https://github.com/EstrellaXD/oxion) &nbsp; ![Stars](https://img.shields.io/github/stars/EstrellaXD/oxion?style=flat&color=39D353&labelColor=0D1117)
+### [SEED](https://github.com/EstrellaXD/SEED) &nbsp; ![Stars](https://img.shields.io/github/stars/EstrellaXD/oxion?style=flat&color=39D353&labelColor=0D1117)
 
 Universal mass spectrometry file reader — fast, cross-platform, no .NET required
 
