@@ -62,10 +62,10 @@ Universal mass spectrometry file reader — fast, cross-platform, no .NET requir
 ## GitHub Achievements
 
 <p>
-  <a href="https://github.com/EstrellaXD?achievement=pull-shark&tab=achievements"><img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark x4" title="Pull Shark x4" /></a>
-  <a href="https://github.com/EstrellaXD?achievement=pair-extraordinaire&tab=achievements"><img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire x4" title="Pair Extraordinaire x4" /></a>
+  <a href="https://github.com/EstrellaXD?achievement=pull-shark&tab=achievements"><img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark x4" title="Pull Shark x4" /></a><sup><strong>×4</strong></sup>
+  <a href="https://github.com/EstrellaXD?achievement=pair-extraordinaire&tab=achievements"><img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire x4" title="Pair Extraordinaire x4" /></a><sup><strong>×4</strong></sup>
   <a href="https://github.com/EstrellaXD?achievement=yolo&tab=achievements"><img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" title="YOLO" /></a>
-  <a href="https://github.com/EstrellaXD?achievement=starstruck&tab=achievements"><img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck x4" title="Starstruck x4" /></a>
+  <a href="https://github.com/EstrellaXD?achievement=starstruck&tab=achievements"><img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck x4" title="Starstruck x4" /></a><sup><strong>×4</strong></sup>
   <a href="https://github.com/EstrellaXD?achievement=quickdraw&tab=achievements"><img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" title="Quickdraw" /></a>
 </p>
 
